@@ -1,0 +1,7 @@
+*.pyc
+.history/*
+.env
+.vscode/
+.idea/
+notes/
+Pipfile.lock
